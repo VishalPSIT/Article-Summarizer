@@ -11,9 +11,9 @@ News Summarizer is a Python application that uses natural language processing (N
 
 ## Dependencies
 
-nltk: Natural Language Toolkit.
-TextBlob: Simplified text processing.
-newspaper3k: Article scraping and parsing.
+- nltk: Natural Language Toolkit.
+- TextBlob: Simplified text processing.
+- newspaper3k: Article scraping and parsing.
 
 ## Contributing
 
